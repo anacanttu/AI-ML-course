@@ -1,1 +1,1 @@
-# project-IA-ML-course
+# AI-ML-course Projects
